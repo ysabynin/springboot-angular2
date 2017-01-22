@@ -6,7 +6,7 @@
 3. Run 'ParentApplication'
 4. Visit app on http://localhost:8080/
 
-For fast development of Angular2 client run NG Live Development Server:
+## For fast development of Angular2 client run NG Live Development Server:
 1. Run 'ParentApplication' with your API
 2. From parent directory type in terminal: 'cd frontend/src/main/frontend'
 3. Run 'npm start'
